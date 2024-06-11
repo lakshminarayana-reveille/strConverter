@@ -1,0 +1,17 @@
+{
+  "name": "strconverter",
+  "version": "1.0.0",
+  "description": "\"# strConverter\"",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "files": ["lib/**/*"]
+}
